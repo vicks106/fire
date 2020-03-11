@@ -1,0 +1,48 @@
+Mon, 09 Mar 2020 10:00:48 GMT | INFO | app.log | APP LAUNCHED IN PORT 3000 | 
+Mon, 09 Mar 2020 10:02:45 GMT | INFO | app.log | Request recieved at /test | data:{"gender":"male","age":10,"name":"vic"} | log_data:{"gender":"male","age":10,"name":"vic"} | 
+Mon, 09 Mar 2020 10:02:45 GMT | INFO | app.log | Retun sucess response | data:{"sucess":true} | log_data:{"gender":"male","age":10,"name":"vic"} | 
+Mon, 09 Mar 2020 10:07:37 GMT | INFO | app.log | APP LAUNCHED IN PORT 3000 | 
+Mon, 09 Mar 2020 10:07:50 GMT | INFO | app.log | Request recieved at /test | data:{"gender":"male","age":10,"name":"vicd"} | log_data:{"gender":"male","age":10,"name":"vicd"} | 
+Mon, 09 Mar 2020 10:07:50 GMT | INFO | app.log | Retun sucess response | data:{"sucess":true} | log_data:{"gender":"male","age":10,"name":"vicd"} | 
+Mon, 09 Mar 2020 10:09:50 GMT | INFO | app.log | Request recieved at /test | data:{"gender":"male","age":10,"name":""} | log_data:{"gender":"male","age":10,"name":""} | 
+Mon, 09 Mar 2020 10:09:50 GMT | ERROR | app.log | Name field is empty | log_data:{"gender":"male","age":10,"name":""} | 
+Mon, 09 Mar 2020 10:09:50 GMT | ERROR | app.log | Retun error response | data:{"sucess":false} | log_data:{"gender":"male","age":10,"name":""} | 
+Mon, 09 Mar 2020 10:13:22 GMT | INFO | app.log | APP LAUNCHED IN PORT 3000 | 
+Mon, 09 Mar 2020 10:13:27 GMT | INFO | app.log | Request recieved at /test | data:{"gender":"male","age":10,"name":""} | 
+Mon, 09 Mar 2020 10:13:27 GMT | ERROR | app.log | Name field is empty | 
+Mon, 09 Mar 2020 10:13:27 GMT | ERROR | app.log | Retun error response | data:{"sucess":false} | 
+Mon, 09 Mar 2020 10:36:11 GMT | INFO | app.log | APP LAUNCHED IN PORT 3000 | 
+Mon, 09 Mar 2020 10:36:21 GMT | INFO | app.log | Request recieved at /test | 
+Mon, 09 Mar 2020 10:36:21 GMT | ERROR | app.log | Name field is empty | 
+Mon, 09 Mar 2020 10:36:21 GMT | ERROR | app.log | Retun error response | data:{"sucess":false} | 
+Mon, 09 Mar 2020 10:37:15 GMT | INFO | app.log | APP LAUNCHED IN PORT 3000 | 
+Mon, 09 Mar 2020 10:37:21 GMT | INFO | app.log | Request recieved at /test | 
+Mon, 09 Mar 2020 10:37:21 GMT | ERROR | app.log | Name field is empty | 
+Mon, 09 Mar 2020 10:37:21 GMT | ERROR | app.log | Retun error response | 
+Mon, 09 Mar 2020 10:37:33 GMT | INFO | app.log | Request recieved at /test | 
+Mon, 09 Mar 2020 10:37:33 GMT | INFO | app.log | Retun sucess response | 
+Mon, 09 Mar 2020 10:41:47 GMT | INFO | app.log | APP LAUNCHED IN PORT 3000 | 
+Mon, 09 Mar 2020 10:41:57 GMT | INFO | app.log | Request recieved at /test | 
+Mon, 09 Mar 2020 10:41:57 GMT | INFO | app.log | Retun sucess response | 
+Mon, 09 Mar 2020 10:43:14 GMT | INFO | app.log | APP LAUNCHED IN PORT 3000 | 
+Mon, 09 Mar 2020 10:43:24 GMT | INFO | app.log | Request recieved at /test | 
+Mon, 09 Mar 2020 10:43:24 GMT | INFO | app.log | Retun sucess response | 
+Mon, 09 Mar 2020 10:44:27 GMT | INFO | app.log | APP LAUNCHED IN PORT 3000 | 
+Mon, 09 Mar 2020 10:44:31 GMT | INFO | app.log | Request recieved at /test | 
+Mon, 09 Mar 2020 10:44:31 GMT | INFO | app.log | Retun sucess response | 
+Mon, 09 Mar 2020 10:46:14 GMT | INFO | app.log | APP LAUNCHED IN PORT 3000 | 
+Mon, 09 Mar 2020 10:46:21 GMT | INFO | app.log | Request recieved at /test | 
+Mon, 09 Mar 2020 10:46:21 GMT | INFO | app.log | Retun sucess response | 
+Mon, 09 Mar 2020 10:46:42 GMT | INFO | app.log | Request recieved at /test | 
+Mon, 09 Mar 2020 10:46:42 GMT | INFO | app.log | Retun sucess response | 
+Mon, 09 Mar 2020 10:47:22 GMT | INFO | app.log | APP LAUNCHED IN PORT 3000 | 
+Mon, 09 Mar 2020 10:47:28 GMT | INFO | app.log | Request recieved at /test | 
+Mon, 09 Mar 2020 10:47:28 GMT | ERROR | app.log | Name field is empty | 
+Mon, 09 Mar 2020 10:47:28 GMT | ERROR | app.log | Retun error response | 
+Mon, 09 Mar 2020 10:55:49 GMT | INFO | app.log | Request recieved at /test | 
+Mon, 09 Mar 2020 10:55:49 GMT | ERROR | app.log | Name field is empty | 
+Mon, 09 Mar 2020 10:55:49 GMT | ERROR | app.log | Retun error response | 
+Mon, 09 Mar 2020 11:51:05 GMT | INFO | app.log | APP LAUNCHED IN PORT 3000  
+Mon, 09 Mar 2020 11:51:11 GMT | INFO | app.log | Request recieved at /test  
+Mon, 09 Mar 2020 11:51:11 GMT | ERROR | app.log | Name field is empty  
+Mon, 09 Mar 2020 11:51:11 GMT | ERROR | app.log | Retun error response  
